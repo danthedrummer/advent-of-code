@@ -1,8 +1,8 @@
-package ddowney.days
+package org.dandowney.advent.code2021
 
-import ddowney.Day
+import org.dandowney.advent.Day
 
-internal class Day2 : Day("day-2-input.txt") {
+internal class Day2 : Day("2021-12-02.txt") {
 
   override fun part1(): String {
     var distance = 0

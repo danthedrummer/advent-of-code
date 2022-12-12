@@ -1,9 +1,9 @@
-package ddowney.days
+package org.dandowney.advent.code2021
 
-import ddowney.Day
+import org.dandowney.advent.Day
 import kotlin.math.pow
 
-internal class Day3 : Day("day-3-input.txt") {
+internal class Day3 : Day("2021-12-03.txt") {
 
   override fun part1(): String {
     var gamma = 0.0

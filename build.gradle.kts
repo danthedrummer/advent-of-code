@@ -5,7 +5,7 @@ plugins {
     application
 }
 
-group = "me.ddowney"
+group = "org.dandowney"
 version = "1.0-SNAPSHOT"
 
 repositories {

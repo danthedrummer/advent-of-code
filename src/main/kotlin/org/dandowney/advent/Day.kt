@@ -1,4 +1,4 @@
-package ddowney
+package org.dandowney.advent
 
 internal abstract class Day(filename: String) {
 

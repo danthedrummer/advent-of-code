@@ -1,4 +1,4 @@
-package ddowney
+package org.dandowney.advent
 
 object ResourceLoader {
 
