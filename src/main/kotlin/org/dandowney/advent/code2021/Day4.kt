@@ -2,7 +2,7 @@ package org.dandowney.advent.code2021
 
 import org.dandowney.advent.Day
 
-internal class Day4 : Day("2021-12-04.txt") {
+internal class Day4 : Day("2021/day-04.txt") {
   override fun part1(): String {
     val numbers = input.first().split(",").map { it.toInt() }
     val boards = parseBoards()

@@ -5,7 +5,7 @@ import java.lang.Integer.min
 import kotlin.math.abs
 import kotlin.math.max
 
-internal class Day5 : Day("2021-12-05.txt") {
+internal class Day5 : Day("2021/day-05.txt") {
 
   override fun part1(): String {
     val grid: MutableList<MutableList<Int>> = MutableList(1000) {

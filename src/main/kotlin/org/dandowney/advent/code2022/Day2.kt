@@ -3,7 +3,7 @@ package org.dandowney.advent.code2022
 import org.dandowney.advent.Day
 import org.dandowney.advent.code2022.Choice.Companion.fromPrediction
 
-internal class Day2 : Day("2022-12-02.txt") {
+internal class Day2 : Day("2022/day-02.txt") {
 
   override fun part1(): String {
     var score = 0

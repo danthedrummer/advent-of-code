@@ -2,7 +2,7 @@ package org.dandowney.advent.code2021
 
 import org.dandowney.advent.Day
 
-internal class Day1 : Day("2021-12-01.txt") {
+internal class Day1 : Day("2021/day-01.txt") {
 
   override fun part1(): String {
     var count = 0

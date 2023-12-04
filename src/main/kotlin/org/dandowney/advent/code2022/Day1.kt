@@ -2,7 +2,7 @@ package org.dandowney.advent.code2022
 
 import org.dandowney.advent.Day
 
-internal class Day1 : Day("2022-12-01.txt") {
+internal class Day1 : Day("2022/day-01.txt") {
 
   override fun part1(): String = processElves()
     .maxOfOrNull { it.totalCalories() }

@@ -4,7 +4,7 @@ import java.util.*
 
 fun main() {
   val keyboard = Scanner(System.`in`)
-  val year = 2022
+  val year = 2023
 
   while (true) {
     println("What day is it? (q to quit) -> ")

@@ -2,7 +2,7 @@ package org.dandowney.advent.code2022
 
 import org.dandowney.advent.Day
 
-internal class Day3 : Day("2022-12-03.txt") {
+internal class Day3 : Day("2022/day-03.txt") {
 
   override fun part1(): String {
     var result = 0
